@@ -1,0 +1,33 @@
+{% load static %}
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+        {% block page_title %}
+        	days of week
+        {% endblock %}
+    </title>
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+    <link rel="stylesheet" href="{% static 'challenges/includes/header.css' %}">
+    <link rel="stylesheet" href="{% static 'challenges/challenge.css' %}">
+    <link rel="stylesheet" href="{% static 'challenges/challenges.css' %}">
+
+{% block header %}
+{% endblock %}
+</head>
+<body>
+
+<div>
+    {% block content %}
+    	<p>days of week project</p>
+    {% endblock %}
+</div>
+
+{% block footer %}{% endblock %}
+</body>
+</html>
