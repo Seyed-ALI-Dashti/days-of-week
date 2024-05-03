@@ -1,7 +1,7 @@
 <h1>Days Of Week</h1>
 Days of the week project with Django
 <hr>
-you can download this project:
+You can download this project:
  <br>
 <a href="https://codeload.github.com/Seyed-ALI-Dashti/days-of-week/zip/refs/heads/master"> Download Zip </a>
 
