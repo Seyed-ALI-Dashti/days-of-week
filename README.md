@@ -1,3 +1,16 @@
-![01](https://github.com/Seyed-ALI-Dashti/days-of-week/assets/113707660/fd860d42-61d1-48f9-b154-57b0d6e8cdba)
-![02](https://github.com/Seyed-ALI-Dashti/days-of-week/assets/113707660/56a0f027-173c-4e03-b44d-745d5200c6df)
-![04](https://github.com/Seyed-ALI-Dashti/days-of-week/assets/113707660/9b2ef7d2-a030-4e6d-9357-5b0455f44889) ![03](https://github.com/Seyed-ALI-Dashti/days-of-week/assets/113707660/1b1197e0-8f73-4f3a-aaa9-ffc455b9f2b5)
+<h1>Days Of Week</h1>
+Days of the week project with Django
+<hr>
+you can download the blog project :
+ <br>
+<a href="https://codeload.github.com/Seyed-ALI-Dashti/days-of-week/zip/refs/heads/master"> Download Zip </a>
+
+<hr>
+
+<p> Preview </p>
+<br>
+<p> index </p>
+<img src="https://github.com/Seyed-ALI-Dashti/days-of-week/assets/113707660/e9559b32-feb8-43da-a066-e2e8afcac38f" />
+<br><br><br>
+<p> detail page of day </p>
+<img src="https://github.com/Seyed-ALI-Dashti/days-of-week/assets/113707660/0c068e12-38a3-49f0-b1dc-f4326412a472" />
